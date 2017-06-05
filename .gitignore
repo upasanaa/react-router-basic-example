@@ -1,0 +1,7 @@
+#Ignoring node_modules for check-in to master
+
+node_modules/**
+
+#Ignoring build for check-in to master
+
+build/**
